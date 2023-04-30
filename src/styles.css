@@ -1,0 +1,60 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+  margin: 0;
+  font-size: 4vw;
+  line-height: 48px;
+}
+
+h1,
+h2,
+h3 {
+  color: #231d3c;
+}
+
+.logo {
+  position: absolute;
+  left: 0;
+  top:0;
+  display: block;
+  margin: 30px auto;
+  width: 30%;
+}
+
+.img-positioning {
+  display: block;
+  margin: 30px auto;
+  width: 75%;
+}
+
+.cities {
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  position: fixed;
+  right: 0;
+  top: 0;
+  font-size: 3vw;
+}
+.emojis {
+  height: 50px;
+}
+.first {
+  position: relative;
+  top: 0px;
+}
+.second {
+  position: relative;
+    top: 22px;
+    left: -24px;
+}
+.third {
+  position: relative;
+    top: 44px;
+    left: -48px;
+}
+}
